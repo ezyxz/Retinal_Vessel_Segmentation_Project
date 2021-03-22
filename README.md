@@ -13,8 +13,6 @@ This project is for paper "Retinal Vessel based on Unet_FPN" by Xinyuan Zuo
 ### Note: Every step import config_CHASE.py or config_DRIVE.py to select datasets
 
 
-## 录用证明
-![image](https://github.com/ezyxz/Retinal_Vessel_Segmentation_Project/blob/main/ICITBS.pdf)
 
-
+ ## [录用证明](https://github.com/ezyxz/Retinal_Vessel_Segmentation_Project/blob/main/ICITBS.pdf)
  ## [Paper](https://github.com/ezyxz/Retinal_Vessel_Segmentation_Project/blob/main/paper.pdf)
